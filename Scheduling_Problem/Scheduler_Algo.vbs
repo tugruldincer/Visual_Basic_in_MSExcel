@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "Scheduler"
 Sub SchedulingProb()
     Dim delta As Double
     delta = 0
